@@ -5,7 +5,7 @@ const Discuss = () => {
             <div className="pt-4" style={{ backgroundColor: "yellow", transform: "0.0.0.2" }}>
                 <div className="max-w-7xl mx-auto flex flex-col lg:flex-row lg:space-x-8">
                     <div className="lg:w-1/2 pt-12">
-                        <h1 className="text-3xl gap-2 font-bold mb-4 text-white">Let's Discuss <br /> Your Project</h1>
+                        <h1 className="text-3xl gap-2 font-bold mb-4 text-white">Lets Discuss <br /> Your Project</h1>
                         <p className="text-white pt-5">Let uss figure out hwo to create an efficient application, its cost and terms of its development</p>
                     </div>
                     <div className="lg:w-1/2 flex justify-center lg:justify-end mt-4 lg:mt-0">
