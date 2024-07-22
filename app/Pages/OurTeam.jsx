@@ -98,7 +98,7 @@ const OurTeam = () => {
                                     <p>in IT sphere</p>
                                 </div>
                             </div>
-                            <p>All the necessary specialists - from a designer to a tester - are on our staff. We hire the best specialists in the market. It’s expensive but worth it.</p>
+                            <p>All the necessary specialists - from a designer to a tester - are on our staff. We hire the best specialists in the market. Its expensive but worth it.</p>
                         </div>
                         <div className="lg:w-1/2">
                             <img src="path_to_your_image.png" alt="Our team" className="rounded-lg" />

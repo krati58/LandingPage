@@ -16,8 +16,8 @@ const ProjectDetails = ({ project }) => {
                     ))}
                 </div>
                 <div className="flex items-center mb-4">
-                    <span className="text-yellow-500 mr-2">📍 {project.location}</span>
-                    <span className="text-yellow-500">🏢 {project.industry}</span>
+                    <span className="text-yellow-500 mr-2"> {project.location}</span>
+                    <span className="text-yellow-500"> {project.industry}</span>
                 </div>
                 <div className="flex items-center mb-4">
                     <span className="mr-4"><strong>{project.growth}</strong> User Growth</span>

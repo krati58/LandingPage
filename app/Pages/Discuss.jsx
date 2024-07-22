@@ -1,3 +1,4 @@
+
 const Discuss = () => {
     return (
         <>
@@ -5,7 +6,7 @@ const Discuss = () => {
                 <div className="max-w-7xl mx-auto flex flex-col lg:flex-row lg:space-x-8">
                     <div className="lg:w-1/2 pt-12">
                         <h1 className="text-3xl gap-2 font-bold mb-4 text-white">Let's Discuss <br /> Your Project</h1>
-                        <p className="text-white pt-5">Let's figure out hwo to create an efficient application, its cost and terms of its development</p>
+                        <p className="text-white pt-5">Let uss figure out hwo to create an efficient application, its cost and terms of its development</p>
                     </div>
                     <div className="lg:w-1/2 flex justify-center lg:justify-end mt-4 lg:mt-0">
                         <div className="space-x-4 flex">
